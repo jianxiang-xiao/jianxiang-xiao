@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @肖建祥
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on 1299214290@foxmail.com
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 1299214290@foxmail.com
 
 <!---
 jianxiang-xiao/jianxiang-xiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
